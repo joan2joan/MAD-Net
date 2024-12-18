@@ -188,3 +188,5 @@ python test.py configs/abcnet/madnet_nudt.py work_dirs/abcnet_clft-s_256x256_150
   </tr>
 </tbody>
 </table>
+
+*The overall repository style is highly borrowed from [ABC](https://github.com/PANPEIWEN/ABC). Thanks to Peiwen Pan.
