@@ -55,7 +55,7 @@ python train.py <CONFIG_FILE>
 For example:
 
 ```
-python train.py configs/abcnet/madnet_nudt.py
+python train.py configs/madnet/madnet_nudt.py
 ```
 
 ## Test
@@ -67,7 +67,7 @@ python test.py <CONFIG_FILE> <SEG_CHECKPOINT_FILE>
 For example:
 
 ```
-python test.py configs/abcnet/madnet_nudt.py work_dirs/abcnet_clft-s_256x256_1500e_nudt/20240805_122237/best.pth.tar
+python test.py configs/madnet/madnet_nudt.py work_dirs/madnet_clft-s_256x256_1500e_nudt/20240805_122237/best.pth.tar
 ```
 
 ## Performance
